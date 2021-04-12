@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Luis Felipe de Deus and I’m a 24-year-old Computer Engineering student, currently attending the 10th semester at the Federal University of Santa Maria
+My name is Luis Felipe de Deus and I’m a 24-year-old Computer Engineer from Brazil.
 
 A little bit about "The road so far"... :
  - Three years as undergraduate researcher at Electrical and Computation Systems Research and Development Group (GSEC) from Federal University of Santa Maria (UFSM).
